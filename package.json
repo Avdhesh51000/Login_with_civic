@@ -1,0 +1,7 @@
+{
+  "name": "login_with_civic",
+  "private": true,
+  "dependencies": {
+    "civic-sip-api": "^1.0.2"
+  }
+}
